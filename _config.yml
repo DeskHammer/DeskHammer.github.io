@@ -10,7 +10,6 @@ description: Web Developer from Somewhere
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-#
 # Flags below are optional
 #
 
@@ -84,4 +83,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-slate
+remote_theme: chrisbobbe/jekyll-theme-prologue
